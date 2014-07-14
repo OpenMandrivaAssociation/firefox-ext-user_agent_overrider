@@ -1,7 +1,7 @@
 Summary: Firefox extension
 Name: firefox-ext-user_agent_overrider
 Version: 0.2.4
-Release: Stan8
+Release: 1
 License: MPL
 Group:	Networking/WWW
 URL: https://addons.mozilla.org/pl/firefox/addon/user-agent-overrider/
@@ -40,13 +40,4 @@ rm -rf %{buildroot}
 %defattr(0644,root,root,0755)
 %{firefox_extdir}
 
-
-%changelog
-* Thu Jun 05 2014 Stan8 <stasiek0000@poczta.onet.pl> 0.2.4-Stan8
-+ Revision: 2
-- 0.2.4
-
-* Thu Feb 06 2014 Stan8 <stasiek0000@poczta.onet.pl> 0.2.3-Stan8
-+ Revision: 1
-- 0.2.3
 
