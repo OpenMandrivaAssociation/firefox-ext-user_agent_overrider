@@ -1,7 +1,7 @@
 Summary: Firefox extension
 Name: firefox-ext-user_agent_overrider
-Version: 0.2.4
-Release: 2
+Version: 0.4.1
+Release: 1
 License: MPL
 Group:	Networking/WWW
 URL: https://addons.mozilla.org/pl/firefox/addon/user-agent-overrider/
